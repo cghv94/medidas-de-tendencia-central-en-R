@@ -1,9 +1,9 @@
-# UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
-# Facultad de Economía
-# Estadística 2020-2
-# Profesor: Cesar Hernández
+# UNIVERSIDAD NACIONAL AUTÃ“NOMA DE MÃ‰XICO
+# Facultad de EconomÃ­a
+# EstadÃ­stica 2020-2
+# Profesor: Cesar HernÃ¡ndez
 # Medidas de tendencia central
-# Moda en R, parte 3: clases y frecuencias, función cut() y función table()
+# Moda en R, parte 3: clases y frecuencias, funciÃ³n cut() y funciÃ³n table()
 
 head(mtcars)
 
