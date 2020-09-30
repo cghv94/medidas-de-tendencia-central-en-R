@@ -1,2 +1,2 @@
-# medidas-de-tendencia-central
-Tutorial sobre medidas de tendencia central
+# medidas-de-tendencia-central-en-R
+Tutorial sobre medidas de tendencia central en R
