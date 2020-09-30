@@ -1,9 +1,9 @@
-# UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
-# Facultad de Economía
-# Estadística 2020-2
-# Profesor: Cesar Hernández
+# UNIVERSIDAD NACIONAL AUTÃ“NOMA DE MÃ‰XICO
+# Facultad de EconomÃ­a
+# EstadÃ­stica 2020-2
+# Profesor: Cesar HernÃ¡ndez
 # Medidas de tendencia central
-# Media en R: función mean()
+# Media en R: funciÃ³n mean()
 
 # Creando la muestra 1
 muestra1 <- c(1,2,3,4,5)
